@@ -1,6 +1,6 @@
 # Jogo de Batalha de Narvais
 
-![Captura de Tela do Jogo](jogo.png)
+![Captura de Tela do Jogo](/imgs/jogo.png)
 
 ## Descrição
 
