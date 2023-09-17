@@ -1,4 +1,4 @@
-# Jogo de Batalha de Narvais
+# Jogo de Batalha de Narval
 
 ![Captura de Tela do Jogo](jogo.png)
 
